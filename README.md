@@ -7,5 +7,5 @@ Os requisitos são:<br>
 <li><a href="https://www.w3schools.com/html/" rel="nofollow">HTML básico</a></li>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow">CSS básico</a></li>
 
-##🚀 Let's code! 🚀
+## 🚀 Let's code! 🚀
 
