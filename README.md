@@ -4,7 +4,7 @@
 <a href="https://digitalinnovation.one/" target="_blank">Digital Innovation One 🚀</a></p><br>
 Esse é o meu repositório da aula de Flexbox, na qual recriamos a interface de login do Instagram!<br>
 Os requisitos são:<br>
-* [HTML básico](https://www.w3schools.com/html/)<br>
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)<br>
+<a href="https://www.w3schools.com/html/" target="_blank">HTML básico 🚀</a></p><br>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS básico 🚀</a></p><br>
 🚀 Let's code! 🚀
 
